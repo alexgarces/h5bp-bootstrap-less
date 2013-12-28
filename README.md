@@ -1,7 +1,7 @@
 HTML5 Boilerplate + Bootstrap + LESS
 ===================
 
-All in one build for lazy designers. :)
+All in one build for lazy designers.
 
 ## Sources
 
